@@ -10,7 +10,7 @@ It should not be necessary to install Nikola and other dependencies to modify an
 
 To add a new post with Nikola: `nikola new_post` (will create a file with .txt which you can use Markdown syntax in)
 
-To add a new post with "Textile":http://txstyle.org/ syntax: `nikla new_post -f textile`
+To add a new post with [Textile](http://txstyle.org/) syntax: `nikla new_post -f textile`
 
 To add a new page (story) with Nikola: `nikola new_post -p`
 
