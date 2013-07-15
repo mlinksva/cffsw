@@ -1,0 +1,14 @@
+<notextile>  <!--
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/07/16 02:08:44
+.. title: Contact
+.. slug: contact
+--></notextile>
+
+Have a project to add or a correction to make? Submit a pull request to "https://github.com/pfctdayelise/cffsw":https://github.com/pfctdayelise/cffsw or just "email":mailto:cffsw@modernthings.org :)
+
+You agree to license your contributions under the "Creative Commons Attribution license":http://creativecommons.org/licenses/by/3.0/ (CC-BY).
+
+<notextile><iframe src="https://docs.google.com/forms/d/1TcyOKtMg3jg9JQ13Y0waMDoPpuy2kTRRTmX1veS3HkE/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe></notextile>
