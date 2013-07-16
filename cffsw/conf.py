@@ -92,8 +92,8 @@ SIDEBAR_LINKS = {
 
 post_pages = (
     ("posts/*.txt", "posts", "post.tmpl", True),
-    ("stories/*.txt", "", "story.tmpl", False),
     ("posts/*.textile", "posts", "post.tmpl", True),
+    ("stories/*.txt", "", "story.tmpl", False),
     ("stories/*.textile", "", "story.tmpl", False),
 )
 
@@ -237,8 +237,8 @@ ARCHIVE_FILENAME = "index.html"
 # translated
 
 # Name of the theme to use.
-THEME = 'monospace' # to see the license use one of: orphan, default, monospace
-#THEME = 'cosmomonospace'
+## override is our custom theme that uses monospace as a base.
+THEME = 'override'
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
@@ -270,7 +270,7 @@ THEME = 'monospace' # to see the license use one of: orphan, default, monospace
 # }
 
 # Show only teasers in the index pages? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # A HTML fragment describing the license, for the sidebar. Default is "".
 # I recommend using the Creative Commons' wizard:

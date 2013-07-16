@@ -13,15 +13,22 @@
 .. campaign_currency: £
 .. campaign_goal: 2500
 .. campaign_raised: 17952
-.. code: existing
+.. existing_code: existing
 .. license: BSD
 --></notextile>
 
 Django is the go-to Python web framework, with South a plugin for Schema migration. This campaign was to put the next generation of schema migrations directly in Django core, essentially a rewrite of South. It was funded within a matter of hours. The campaigner is a Django core committer, and the original author and principal maintainer of South.
 
+<!-- TEASER_END -->
+
 h3. Rewards
 
-Email queries, personal consulting
+* &lt;£50: warm fuzzies
+* £50: blog post mention
+* £100: blog post mention with link and logo
+* £250: Email queries + above
+* £500: Detailed email assistance + above
+* £1000: A day of personal consulting + above
 
 h3. Outcomes
 

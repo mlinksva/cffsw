@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Crowdfunded Free Software (django)</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Tue, 16 Jul 2013 14:20:41 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Schema migrations for Django</title><link>http://cffsw.modernthings.org/posts/schema-migrations-for-django/</link><description>&lt;p&gt;Django is the go-to Python web framework, with South a plugin for Schema migration. This campaign was to put the next generation of schema migrations directly in Django core, essentially a rewrite of South. It was funded within a matter of hours. The campaigner is a Django core committer, and the original author and principal maintainer of South.&lt;/p&gt;
+<rss version="2.0"><channel><title>Crowdfunded Free Software (django)</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Wed, 17 Jul 2013 00:42:52 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Schema migrations for Django</title><link>http://cffsw.modernthings.org/posts/schema-migrations-for-django/</link><description>&lt;p&gt;Django is the go-to Python web framework, with South a plugin for Schema migration. This campaign was to put the next generation of schema migrations directly in Django core, essentially a rewrite of South. It was funded within a matter of hours. The campaigner is a Django core committer, and the original author and principal maintainer of South.&lt;/p&gt;
+
+	&lt;p&gt;&lt;!-- TEASER_END --&gt;&lt;/p&gt;
 
 	&lt;h4&gt;Rewards&lt;/h4&gt;
 
-	&lt;p&gt;Email queries, personal consulting&lt;/p&gt;
-
-	&lt;h4&gt;Outcomes&lt;/h4&gt;
+	&lt;ul&gt;&lt;li&gt;&amp;lt;£50: warm fuzzies&lt;/li&gt;
+		&lt;li&gt;£50: blog post mention&lt;/li&gt;
+		&lt;li&gt;£100: blog post mention with link and logo&lt;/li&gt;
+		&lt;li&gt;£250: Email queries + above&lt;/li&gt;
+		&lt;li&gt;£500: Detailed email assistance + above&lt;/li&gt;
+		&lt;li&gt;£1000: A day of personal consulting + above&lt;/li&gt;
+	&lt;/ul&gt;&lt;h4&gt;Outcomes&lt;/h4&gt;
 
 	&lt;p&gt;&lt;span class="caps"&gt;TBC&lt;/span&gt;&lt;/p&gt;
 

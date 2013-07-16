@@ -1,0 +1,52 @@
+ <%page args="post, helper=None, detailed=True"/>
+
+        <div class="meta" style="background-color: rgb(234, 234, 234); ">                    
+        <span class="authordate">
+            ${messages("Posted")}: ${post.formatted_date(date_format)} 
+            % if detailed and not post.meta('password'):
+               [<a href="/${post.source_link()}" id="sourcelink">${messages("Source")}</a>]
+            % endif
+        </span>
+            %if post.tags:
+	        <br>
+                <span class="tags">${messages("Tags")}:&nbsp;
+                %for tag in post.tags:
+                    <a class="tag" href="${_link('tag', tag)}"><span class="badge badge-info">${tag}</span></a>
+                %endfor
+                </span>
+            %endif
+        % if detailed and helper:
+        <span class="authordate">
+            ${helper.html_translations(post)}
+        </span>
+	% endif
+        % if detailed:
+	<%
+	extras = [('campaign_date', 'Campaign date'),
+		  ('campaign_status', 'Status'),
+	       	  ('campaign_platform', 'Platform'),
+		  ('license', 'License'),
+		  ('existing_code', 'Code before campaign?'),
+		  ('campaign_backers', 'Backers'),
+		  ]
+
+	def getpostmetaitem(post, item):
+	    result = post.meta(item)
+            return result if result else 'unspecified'
+      	%>
+            <br>
+            <span class="campaign_url">
+            <a href="${post.meta('campaign_url')}">Campaign link</a>
+            </span>
+            % for (item, label) in extras:
+	        <br>
+	        <span class="${item}">
+            	${label}: ${getpostmetaitem(post, item)}
+		</span>
+	    % endfor
+	    <br>
+	    <span class="campaign_funds">
+            Raised: ${getpostmetaitem(post, 'campaign_currency')}${getpostmetaitem(post, 'campaign_raised')} of ${getpostmetaitem(post, 'campaign_goal')} goal
+	    </span>
+	% endif
+        </div>
