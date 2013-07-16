@@ -178,7 +178,7 @@ ARCHIVE_FILENAME = "index.html"
 # "rsync -rav output/* joe@my.site:/srv/www/site"
 # And then do a backup, or ping pingomatic.
 # To do manual deployment, set it to []
-# DEPLOY_COMMANDS = []
+DEPLOY_COMMANDS = ["rsync -ravz output/ cffsw@modernthings.org:~/cffsw.modernthings.org/ --delete-after --delete-excluded --exclude '.git'"]
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
