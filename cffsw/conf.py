@@ -276,10 +276,11 @@ THEME = 'monospace' # to see the license use one of: orphan, default, monospace
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
 LICENSE = """
-<a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
+<p>A catalogue of campaigns, successful or otherwise.</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by/3.0/">
 <img alt="Creative Commons License BY"
 style="border-width:0; margin-bottom:12px;"
-src="http://i.creativecommons.org/l/by/3.0/88x31.png"></a>"""
+src="http://i.creativecommons.org/l/by/3.0/88x31.png"></a></p>"""
 
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
@@ -356,7 +357,7 @@ PRETTY_URLS = True
 
 # Enable Addthis social buttons?
 # Defaults to true
-# ADD_THIS_BUTTONS = True
+ADD_THIS_BUTTONS = False
 
 # Hide link to source for the posts?
 # HIDE_SOURCELINK = False

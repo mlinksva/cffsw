@@ -7,7 +7,7 @@
 .. slug: about
 --></notextile>
 
-A list of known crowdfunding campaigns where the result would be software released under a "free software":http://www.gnu.org/philosophy/free-sw.html license.
+A list of known crowdfunding campaigns where the result would be software released under a "free software":http://www.gnu.org/philosophy/free-sw.html license. Hopefully this can be a useful resource for free culture academics and would-be free software developers.
 
 This is not a list of open source software for creating a Kickstarter clone. For that try "this list":http://seedingfactory.com/2013/04/list-of-open-source-crowdfunding-platforms/.
 
@@ -15,4 +15,8 @@ Some other sites that may be of interest:
 
 * "Bountysource":https://www.bountysource.com/
 * "Kickstarter 'open software' tag":http://www.kickstarter.com/discover/categories/open%20software (NB. seems to me this is a rather loose designation)
+
+h2. Source/Contributing
+
+The source for this site is available at "Github":https://github.com/pfctdayelise/cffsw ; patches/pull requests welcome. It is built using "Nikola":http://nikola.ralsina.com.ar/, a static site generator written in Python. If you don't feel comfortable contributing that way, feel free to just use the "contact form":http://cffsw.modernthings.org/contact/.
 
