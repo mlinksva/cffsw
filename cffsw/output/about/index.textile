@@ -1,0 +1,18 @@
+<notextile>  <!--
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/07/16 01:59:45
+.. title: About
+.. slug: about
+--></notextile>
+
+A list of known crowdfunding campaigns where the result would be software released under a "free software":http://www.gnu.org/philosophy/free-sw.html license.
+
+This is not a list of open source software for creating a Kickstarter clone. For that try "this list":http://seedingfactory.com/2013/04/list-of-open-source-crowdfunding-platforms/.
+
+Some other sites that may be of interest:
+
+* "Bountysource":https://www.bountysource.com/
+* "Kickstarter 'open software' tag":http://www.kickstarter.com/discover/categories/open%20software (NB. seems to me this is a rather loose designation)
+

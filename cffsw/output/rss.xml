@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Crowdfunded Free Software</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Tue, 16 Jul 2013 14:20:41 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Schema migrations for Django</title><link>http://cffsw.modernthings.org/posts/schema-migrations-for-django/</link><description>&lt;p&gt;Django is the go-to Python web framework, with South a plugin for Schema migration. This campaign was to put the next generation of schema migrations directly in Django core, essentially a rewrite of South. It was funded within a matter of hours. The campaigner is a Django core committer, and the original author and principal maintainer of South.&lt;/p&gt;
+
+	&lt;h4&gt;Rewards&lt;/h4&gt;
+
+	&lt;p&gt;Email queries, personal consulting&lt;/p&gt;
+
+	&lt;h4&gt;Outcomes&lt;/h4&gt;
+
+	&lt;p&gt;&lt;span class="caps"&gt;TBC&lt;/span&gt;&lt;/p&gt;
+
+	&lt;h4&gt;Commentary&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.aeracode.org/2013/3/22/my-first-kickstarter/"&gt;My first Kickstarter&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.aeracode.org/2013/4/11/whole-load-kickstarting/"&gt;A whole load of Kickstarting&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;</description><category>python</category><category>django</category><guid>http://cffsw.modernthings.org/posts/schema-migrations-for-django/</guid><pubDate>Tue, 16 Jul 2013 02:35:50 GMT</pubDate></item></channel></rss>

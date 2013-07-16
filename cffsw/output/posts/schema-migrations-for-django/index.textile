@@ -1,0 +1,33 @@
+<notextile>  <!--
+.. link: 
+.. description: 
+.. tags: python, django
+.. date: 2013/07/16 02:35:50
+.. title: Schema migrations for Django
+.. slug: schema-migrations-for-django
+.. campaign_date: 2013-05
+.. campaign_url: http://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django
+.. campaign_platform: kickstarter
+.. campaign_status: successful
+.. campaign_backers: 507
+.. campaign_currency: £
+.. campaign_goal: 2500
+.. campaign_raised: 17952
+.. code: existing
+.. license: BSD
+--></notextile>
+
+Django is the go-to Python web framework, with South a plugin for Schema migration. This campaign was to put the next generation of schema migrations directly in Django core, essentially a rewrite of South. It was funded within a matter of hours. The campaigner is a Django core committer, and the original author and principal maintainer of South.
+
+h3. Rewards
+
+Email queries, personal consulting
+
+h3. Outcomes
+
+TBC
+
+h3. Commentary
+
+* "My first Kickstarter":http://www.aeracode.org/2013/3/22/my-first-kickstarter/
+* "A whole load of Kickstarting":http://www.aeracode.org/2013/4/11/whole-load-kickstarting/
