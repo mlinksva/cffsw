@@ -58,6 +58,7 @@ SIDEBAR_LINKS = {
         ('/about/', 'About'),
         ('/archive/', 'Archives'),
         ('/tags/', 'Tags'),
+        ('/todo/', 'TODO'),
         ('/contact/', 'Contact'),
         ('/rss.xml', 'RSS'),
     ),
