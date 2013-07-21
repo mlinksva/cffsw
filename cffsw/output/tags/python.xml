@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Crowdfunded Free Software (python)</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Wed, 17 Jul 2013 00:42:52 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Schema migrations for Django</title><link>http://cffsw.modernthings.org/posts/schema-migrations-for-django/</link><description>&lt;p&gt;Django is the go-to Python web framework, with South a plugin for Schema migration. This campaign was to put the next generation of schema migrations directly in Django core, essentially a rewrite of South. It was funded within a matter of hours. The campaigner is a Django core committer, and the original author and principal maintainer of South.&lt;/p&gt;
+<rss version="2.0"><channel><title>Crowdfunded Free Software (python)</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Sun, 21 Jul 2013 20:07:23 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>MediaGoblin</title><link>http://cffsw.modernthings.org/posts/mediagoblin/</link><description>&lt;p&gt;MediaGoblin is a “free software media publishing platform”, a free alternative to many popular sites: YouTube (video), Flickr (photos), SoundCloud (audio) and the like. It aims to support &lt;a href="https://www.fsf.org/news/fsf-rallies-support-for-gnu-mediagoblin-to-make-media-publishing-free-as-in-freedom"&gt;truly decentralized publishing and sharing&lt;/a&gt;. It was &lt;a href="http://docs.mediagoblin.org/siteadmin/about.html#what-is-gnu-mediagoblin"&gt;borne&lt;/a&gt; from a Free Software Foundation meeting in 2008, recognising the lack of response in the free software space to popular commercial web-based media hosting and sharing sites. Minor releases were made up until October 2012 when the crowdfunding campaign began. There was a stated aim to reach &lt;a href="http://mediagoblin.org/news/mediagoblin-1.0-checklist.html"&gt;v1.0&lt;/a&gt; by the end of the campaign-funded development period.&lt;/p&gt;
+
+	&lt;p&gt;The campaign reached over 70% of its goal amount, but as the campaign did not follow the “threshold pledge” model of Kickstarter, it has still enabled significant work to be completed. Chris Webber, the main developer, chose to work on MediaGoblin full time for a year (as was the aim of the original target). Webber previously worked as a software engineer at Creative Commons.&lt;/p&gt;
+
+	&lt;p&gt;&lt;!-- TEASER_END --&gt;&lt;/p&gt;
+
+	&lt;h4&gt;Rewards&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;$15: warm fuzzies, stickers&lt;/li&gt;
+		&lt;li&gt;$35: sponsored commit&lt;/li&gt;
+		&lt;li&gt;$50: postcard&lt;/li&gt;
+		&lt;li&gt;$100: t-shirt&lt;/li&gt;
+		&lt;li&gt;$350: 3D-printed figurine&lt;/li&gt;
+		&lt;li&gt;$2000: hand-painted 3D-printed figurine&lt;/li&gt;
+		&lt;li&gt;$7500: Personally cooked meal&lt;/li&gt;
+	&lt;/ul&gt;&lt;p&gt;In a &lt;a href="http://mediagoblin.org/news/mediagoblin-0.3.3-pixel-party.html"&gt;blog post&lt;/a&gt; they noted:&lt;/p&gt;
+
+	&lt;blockquote&gt;
+		&lt;p&gt;As much fun as it was to watch the money/progress bar and mail things out to all our lovely supporters, in the future we are looking for less labor intensive funding models. Feel free to send us your ideas for grants, potential collaborators with access to funding and customization contracts that will help us fund the future of MediaGoblin!&lt;/p&gt;
+	&lt;/blockquote&gt;
+
+	&lt;h4&gt;Outcomes&lt;/h4&gt;
+
+	&lt;p&gt;Since the fundraiser ended 3 upgrades of the software have been released. Code is hosted at &lt;a href="http://gitorious.org/mediagoblin/mediagoblin"&gt;Gitorious&lt;/a&gt;. Releases have added support for 3D models, documents, specifying media file licenses, media file gelocation, and improved plugin architecture. Development of an Android app has also begun. The project hosted several interns as part of Google Summer of Code / &lt;span class="caps"&gt;GNOME&lt;/span&gt; Outreach Program for Women in the middle of 2013.&lt;/p&gt;
+
+	&lt;h4&gt;Commentary&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;&lt;a href="http://mediagoblin.org/news/we-did-it.html"&gt;MediaGoblin crowdfunding campaign: huge success!&lt;/a&gt; – this post has the most detail about how the funds will be used&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.linux-magazine.com/Online/Features/MediaGoblin-Saving-the-Internet-Through-Federation"&gt;MediaGoblin: Saving the Internet Through Federation&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;</description><category>gnu</category><category>media</category><category>video</category><category>social</category><category>python</category><category>web-based</category><guid>http://cffsw.modernthings.org/posts/mediagoblin/</guid><pubDate>Sun, 21 Jul 2013 19:22:36 GMT</pubDate></item><item><title>Schema migrations for Django</title><link>http://cffsw.modernthings.org/posts/schema-migrations-for-django/</link><description>&lt;p&gt;Django is the go-to Python web framework, with South a plugin for Schema migration. This campaign was to put the next generation of schema migrations directly in Django core, essentially a rewrite of South. It was funded within a matter of hours. The campaigner is a Django core committer, and the original author and principal maintainer of South.&lt;/p&gt;
 
 	&lt;p&gt;&lt;!-- TEASER_END --&gt;&lt;/p&gt;
 

@@ -50,23 +50,58 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://cffsw.modernthings.org/posts/mediagoblin/</loc>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://cffsw.modernthings.org/posts/schema-migrations-for-django/</loc>
   <lastmod>2013-07-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://cffsw.modernthings.org/posts/test/</loc>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://cffsw.modernthings.org/tags/</loc>
-  <lastmod>2013-07-16</lastmod>
+  <lastmod>2013-07-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/django.html</loc>
-  <lastmod>2013-07-17</lastmod>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://cffsw.modernthings.org/tags/gnu.html</loc>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://cffsw.modernthings.org/tags/media.html</loc>
+  <lastmod>2013-07-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/python.html</loc>
-  <lastmod>2013-07-17</lastmod>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://cffsw.modernthings.org/tags/social.html</loc>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://cffsw.modernthings.org/tags/video.html</loc>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://cffsw.modernthings.org/tags/web-based.html</loc>
+  <lastmod>2013-07-21</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
