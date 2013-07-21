@@ -4,7 +4,7 @@
         <span class="authordate">
             ${messages("Posted")}: ${post.formatted_date(date_format)} 
             % if detailed and not post.meta('password'):
-               [<a href="/${post.source_link()}" id="sourcelink">${messages("Source")}</a>]
+               [<a href="${post.source_link()}" id="sourcelink">${messages("Source")}</a>]
             % endif
         </span>
             %if post.tags:
