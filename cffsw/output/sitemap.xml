@@ -50,6 +50,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://cffsw.modernthings.org/posts/cobbler/</loc>
+  <lastmod>2013-07-22</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://cffsw.modernthings.org/posts/diaspora/</loc>
   <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
@@ -116,6 +121,11 @@
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/ruby.html</loc>
+  <lastmod>2013-07-22</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://cffsw.modernthings.org/tags/servers.html</loc>
   <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>

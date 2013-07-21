@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Crowdfunded Free Software</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Mon, 22 Jul 2013 00:32:26 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Diaspora</title><link>http://cffsw.modernthings.org/posts/diaspora/</link><description>&lt;p&gt;Diaspora promised itself to be the ultimate free software Facebook-killer, and in the process became a blockbuster – the second biggest Kickstarter project ever, at the time. Four university students were inspired to spend their summer building privacy-focused social networking software that gave the user control, after listening to a speech by &lt;a href="http://en.wikipedia.org/wiki/Eben_Moglen"&gt;Eben Moglen&lt;/a&gt;.&lt;/p&gt;
+<rss version="2.0"><channel><title>Crowdfunded Free Software</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Mon, 22 Jul 2013 00:49:08 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cobbler</title><link>http://cffsw.modernthings.org/posts/cobbler/</link><description>&lt;p&gt;A small-scale campaign to purchase hardware for a project cut loose by Red Hat.&lt;/p&gt;
+
+	&lt;p&gt;&lt;!-- TEASER_END --&gt;&lt;/p&gt;
+
+	&lt;p&gt;From the campaign, by James Cammarata, the new project lead:&lt;/p&gt;
+
+	&lt;blockquote&gt;
+		&lt;p&gt;Created in 2007 by Michael DeHaan, Cobbler is a Linux installation server that allows for rapid setup of network installation environments. It glues together and automates many associated Linux tasks [...] Cobbler was originally a Fedora/Red Hat sponsored project, and is currently a key part of the Red Hat Satellite/Spacewalk project. Since March of 2012, the project leadership has changed and it is no longer receiving direct support from Red Hat in terms of money or development contributions.&lt;/p&gt;
+	&lt;/blockquote&gt;
+
+	&lt;h4&gt;Rewards&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;$25 – warm fuzzies with bronze label&lt;/li&gt;
+		&lt;li&gt;$50 – warm fuzzies with silver label&lt;/li&gt;
+		&lt;li&gt;$100 – warm fuzzies with gold label&lt;/li&gt;
+		&lt;li&gt;$500 – warm fuzzies with platium label&lt;/li&gt;
+	&lt;/ul&gt;&lt;h4&gt;Outcomes&lt;/h4&gt;
+
+	&lt;p&gt;Seems like &lt;a href="http://www.cobblerd.org/posts/2012/12/05/Fundraising_Complete_and_a_New_Website.html"&gt;hardware was purchased&lt;/a&gt;, so this can probably be counted as a success.&lt;/p&gt;
+
+	&lt;h4&gt;Commentary&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;&lt;a href="http://gregdekspeaks.wordpress.com/2012/11/20/shoes-for-the-cobblers-kids/"&gt;Shoes for the Cobbler’s kids&lt;/a&gt; – blog post from a VP at Eucalyptus Systems, announcing they would match donations dollar for dollar during the Indiegogo campaign.&lt;/li&gt;
+	&lt;/ul&gt;</description><category>python</category><category>servers</category><guid>http://cffsw.modernthings.org/posts/cobbler/</guid><pubDate>Mon, 22 Jul 2013 00:36:44 GMT</pubDate></item><item><title>Diaspora</title><link>http://cffsw.modernthings.org/posts/diaspora/</link><description>&lt;p&gt;Diaspora promised itself to be the ultimate free software Facebook-killer, and in the process became a blockbuster – the second biggest Kickstarter project ever, at the time. Four university students were inspired to spend their summer building privacy-focused social networking software that gave the user control, after listening to a speech by &lt;a href="http://en.wikipedia.org/wiki/Eben_Moglen"&gt;Eben Moglen&lt;/a&gt;.&lt;/p&gt;
 
 	&lt;p&gt;While software has been produced, after the runaway success of the initial campaign and subsequent pressure to produce a result, the project has struggled to gain traction with a critical mass of users.&lt;/p&gt;
 
@@ -23,7 +46,7 @@
 
 	&lt;p&gt;In November 2011 one of the original founders, Ilya Zhitomirskiy, committed suicide.&lt;/p&gt;
 
-	&lt;p&gt;In Aigist 2012, the founders announced that they were &lt;a href="http://blog.diasporafoundation.org/2012/08/27/announcement-diaspora-will-now-be-a-community-project.html"&gt;handing Diaspora over to the community&lt;/a&gt;.&lt;/p&gt;
+	&lt;p&gt;In August 2012, the founders announced that they were &lt;a href="http://blog.diasporafoundation.org/2012/08/27/announcement-diaspora-will-now-be-a-community-project.html"&gt;handing Diaspora over to the community&lt;/a&gt;.&lt;/p&gt;
 
 	&lt;h4&gt;Commentary&lt;/h4&gt;
 

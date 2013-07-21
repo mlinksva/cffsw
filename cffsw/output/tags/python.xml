@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Crowdfunded Free Software (python)</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Mon, 22 Jul 2013 00:31:43 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>MediaGoblin</title><link>http://cffsw.modernthings.org/posts/mediagoblin/</link><description>&lt;p&gt;MediaGoblin is a “free software media publishing platform”, a free alternative to many popular sites: YouTube (video), Flickr (photos), SoundCloud (audio) and the like. It aims to support &lt;a href="https://www.fsf.org/news/fsf-rallies-support-for-gnu-mediagoblin-to-make-media-publishing-free-as-in-freedom"&gt;truly decentralized publishing and sharing&lt;/a&gt;. It was &lt;a href="http://docs.mediagoblin.org/siteadmin/about.html#what-is-gnu-mediagoblin"&gt;borne&lt;/a&gt; from a Free Software Foundation meeting in 2008, recognising the lack of response in the free software space to popular commercial web-based media hosting and sharing sites. Minor releases were made up until October 2012 when the crowdfunding campaign began. There was a stated aim to reach &lt;a href="http://mediagoblin.org/news/mediagoblin-1.0-checklist.html"&gt;v1.0&lt;/a&gt; by the end of the campaign-funded development period.&lt;/p&gt;
+<rss version="2.0"><channel><title>Crowdfunded Free Software (python)</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Mon, 22 Jul 2013 00:49:08 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cobbler</title><link>http://cffsw.modernthings.org/posts/cobbler/</link><description>&lt;p&gt;A small-scale campaign to purchase hardware for a project cut loose by Red Hat.&lt;/p&gt;
+
+	&lt;p&gt;&lt;!-- TEASER_END --&gt;&lt;/p&gt;
+
+	&lt;p&gt;From the campaign, by James Cammarata, the new project lead:&lt;/p&gt;
+
+	&lt;blockquote&gt;
+		&lt;p&gt;Created in 2007 by Michael DeHaan, Cobbler is a Linux installation server that allows for rapid setup of network installation environments. It glues together and automates many associated Linux tasks [...] Cobbler was originally a Fedora/Red Hat sponsored project, and is currently a key part of the Red Hat Satellite/Spacewalk project. Since March of 2012, the project leadership has changed and it is no longer receiving direct support from Red Hat in terms of money or development contributions.&lt;/p&gt;
+	&lt;/blockquote&gt;
+
+	&lt;h4&gt;Rewards&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;$25 – warm fuzzies with bronze label&lt;/li&gt;
+		&lt;li&gt;$50 – warm fuzzies with silver label&lt;/li&gt;
+		&lt;li&gt;$100 – warm fuzzies with gold label&lt;/li&gt;
+		&lt;li&gt;$500 – warm fuzzies with platium label&lt;/li&gt;
+	&lt;/ul&gt;&lt;h4&gt;Outcomes&lt;/h4&gt;
+
+	&lt;p&gt;Seems like &lt;a href="http://www.cobblerd.org/posts/2012/12/05/Fundraising_Complete_and_a_New_Website.html"&gt;hardware was purchased&lt;/a&gt;, so this can probably be counted as a success.&lt;/p&gt;
+
+	&lt;h4&gt;Commentary&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;&lt;a href="http://gregdekspeaks.wordpress.com/2012/11/20/shoes-for-the-cobblers-kids/"&gt;Shoes for the Cobbler’s kids&lt;/a&gt; – blog post from a VP at Eucalyptus Systems, announcing they would match donations dollar for dollar during the Indiegogo campaign.&lt;/li&gt;
+	&lt;/ul&gt;</description><category>python</category><category>servers</category><guid>http://cffsw.modernthings.org/posts/cobbler/</guid><pubDate>Mon, 22 Jul 2013 00:36:44 GMT</pubDate></item><item><title>MediaGoblin</title><link>http://cffsw.modernthings.org/posts/mediagoblin/</link><description>&lt;p&gt;MediaGoblin is a “free software media publishing platform”, a free alternative to many popular sites: YouTube (video), Flickr (photos), SoundCloud (audio) and the like. It aims to support &lt;a href="https://www.fsf.org/news/fsf-rallies-support-for-gnu-mediagoblin-to-make-media-publishing-free-as-in-freedom"&gt;truly decentralized publishing and sharing&lt;/a&gt;. It was &lt;a href="http://docs.mediagoblin.org/siteadmin/about.html#what-is-gnu-mediagoblin"&gt;borne&lt;/a&gt; from a Free Software Foundation meeting in 2008, recognising the lack of response in the free software space to popular commercial web-based media hosting and sharing sites. Minor releases were made up until October 2012 when the crowdfunding campaign began. There was a stated aim to reach &lt;a href="http://mediagoblin.org/news/mediagoblin-1.0-checklist.html"&gt;v1.0&lt;/a&gt; by the end of the campaign-funded development period.&lt;/p&gt;
 
 	&lt;p&gt;The campaign reached over 70% of its goal amount, but as the campaign did not follow the “threshold pledge” model of Kickstarter, it has still enabled significant work to be completed. Chris Webber, the main developer, chose to work on MediaGoblin full time for a year (as was the aim of the original target). Webber previously worked as a software engineer at Creative Commons.&lt;/p&gt;
 
