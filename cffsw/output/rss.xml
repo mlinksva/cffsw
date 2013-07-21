@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Crowdfunded Free Software</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Sun, 21 Jul 2013 20:42:38 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>git-annex assistant</title><link>http://cffsw.modernthings.org/posts/git-annex-assistant/</link><description>&lt;p&gt;“Like DropBox, but with your own cloud” promised this campaign, and it was funded in a single day. git-annex is a plugin for the popular version control system git, which has the potential to be used to sychronise one’s files across multiple machines – a la Dropbox. The campaign was to fund further development on this plugin as well as a graphical interface to it to make it accessible and usable by non-developers.&lt;/p&gt;
+<rss version="2.0"><channel><title>Crowdfunded Free Software</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Mon, 22 Jul 2013 00:32:26 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Diaspora</title><link>http://cffsw.modernthings.org/posts/diaspora/</link><description>&lt;p&gt;Diaspora promised itself to be the ultimate free software Facebook-killer, and in the process became a blockbuster – the second biggest Kickstarter project ever, at the time. Four university students were inspired to spend their summer building privacy-focused social networking software that gave the user control, after listening to a speech by &lt;a href="http://en.wikipedia.org/wiki/Eben_Moglen"&gt;Eben Moglen&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;p&gt;While software has been produced, after the runaway success of the initial campaign and subsequent pressure to produce a result, the project has struggled to gain traction with a critical mass of users.&lt;/p&gt;
+
+	&lt;p&gt;&lt;!-- TEASER_END --&gt;&lt;/p&gt;
+
+	&lt;h4&gt;Rewards&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;$5: software CD&lt;/li&gt;
+		&lt;li&gt;$10: stickers&lt;/li&gt;
+		&lt;li&gt;$25: t-shirt&lt;/li&gt;
+		&lt;li&gt;$50: 1 month hosted service or phone support&lt;/li&gt;
+		&lt;li&gt;$100: 3 months hosted service or phone support&lt;/li&gt;
+		&lt;li&gt;$350: 1 year hosted service or phone support&lt;/li&gt;
+		&lt;li&gt;$1000: access to the nightly build server&lt;/li&gt;
+		&lt;li&gt;$2000: computer pre-configured with Diaspora&lt;/li&gt;
+	&lt;/ul&gt;&lt;h4&gt;Outcomes&lt;/h4&gt;
+
+	&lt;p&gt;The campaign was in June 2010. The first “pre-alpha” release of the software was September 2010, although that was marred by security problems.&lt;/p&gt;
+
+	&lt;p&gt;In June 2011, Google launched Google Plus, with many commentators noting the similarity of Google Plus concepts to those in Diaspora.&lt;/p&gt;
+
+	&lt;p&gt;In November 2011 one of the original founders, Ilya Zhitomirskiy, committed suicide.&lt;/p&gt;
+
+	&lt;p&gt;In Aigist 2012, the founders announced that they were &lt;a href="http://blog.diasporafoundation.org/2012/08/27/announcement-diaspora-will-now-be-a-community-project.html"&gt;handing Diaspora over to the community&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;h4&gt;Commentary&lt;/h4&gt;
+
+	&lt;p&gt;Much has been written about Diaspora! Here is a selection. For more check out the &lt;a href="https://wiki.diasporafoundation.org/Media_coverage"&gt;Diaspora wiki&lt;/a&gt;.&lt;/p&gt;
+
+	&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.nytimes.com/2010/05/12/nyregion/12about.html"&gt;Four Nerds and a Cry to Arms Against Facebook&lt;/a&gt; – a New York Times profile during the campaign period that helped bring the project attention&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.businessweek.com/articles/2012-05-10/on-diasporas-social-network-you-own-your-data"&gt;On Diaspora’s Social Network, You Own Your Own Data&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://motherboard.vice.com/blog/what-happened-to-the-facebook-killer-it-s-complicated"&gt;What happened to the Facebook killer? It’s complicated&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.scribd.com/doc/104728404/DIASPORA-7312011-Profit-and-Loss-Statement-B"&gt;Profit and loss statement from the campaign funds&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;</description><category>social</category><category>federation</category><category>ruby</category><guid>http://cffsw.modernthings.org/posts/diaspora/</guid><pubDate>Sun, 21 Jul 2013 23:33:54 GMT</pubDate></item><item><title>git-annex assistant</title><link>http://cffsw.modernthings.org/posts/git-annex-assistant/</link><description>&lt;p&gt;“Like DropBox, but with your own cloud” promised this campaign, and it was funded in a single day. git-annex is a plugin for the popular version control system git, which has the potential to be used to sychronise one’s files across multiple machines – a la Dropbox. The campaign was to fund further development on this plugin as well as a graphical interface to it to make it accessible and usable by non-developers.&lt;/p&gt;
 
 	&lt;p&gt;The initial fundraiser was for three months’ work (one might suspect rather optimistically budgeted); the eventual wild success of the campaign meant Joey Hess, the original author of git-annex, was able to work on these projects for a full year.&lt;/p&gt;
 
@@ -64,7 +98,7 @@
 
 	&lt;ul&gt;&lt;li&gt;&lt;a href="http://mediagoblin.org/news/we-did-it.html"&gt;MediaGoblin crowdfunding campaign: huge success!&lt;/a&gt; – this post has the most detail about how the funds will be used&lt;/li&gt;
 		&lt;li&gt;&lt;a href="http://www.linux-magazine.com/Online/Features/MediaGoblin-Saving-the-Internet-Through-Federation"&gt;MediaGoblin: Saving the Internet Through Federation&lt;/a&gt;&lt;/li&gt;
-	&lt;/ul&gt;</description><category>gnu</category><category>media</category><category>video</category><category>social</category><category>python</category><category>web-based</category><guid>http://cffsw.modernthings.org/posts/mediagoblin/</guid><pubDate>Sun, 21 Jul 2013 19:22:36 GMT</pubDate></item><item><title>Schema migrations for Django</title><link>http://cffsw.modernthings.org/posts/schema-migrations-for-django/</link><description>&lt;p&gt;Django is the go-to Python web framework, with South a plugin for Schema migration. This campaign was to put the next generation of schema migrations directly in Django core, essentially a rewrite of South. It was funded within a matter of hours. The campaigner is a Django core committer, and the original author and principal maintainer of South.&lt;/p&gt;
+	&lt;/ul&gt;</description><category>gnu</category><category>media</category><category>video</category><category>social</category><category>python</category><category>federation</category><guid>http://cffsw.modernthings.org/posts/mediagoblin/</guid><pubDate>Sun, 21 Jul 2013 19:22:36 GMT</pubDate></item><item><title>Schema migrations for Django</title><link>http://cffsw.modernthings.org/posts/schema-migrations-for-django/</link><description>&lt;p&gt;Django is the go-to Python web framework, with South a plugin for Schema migration. This campaign was to put the next generation of schema migrations directly in Django core, essentially a rewrite of South. It was funded within a matter of hours. The campaigner is a Django core committer, and the original author and principal maintainer of South.&lt;/p&gt;
 
 	&lt;p&gt;&lt;!-- TEASER_END --&gt;&lt;/p&gt;
 

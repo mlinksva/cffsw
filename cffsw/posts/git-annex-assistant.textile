@@ -1,0 +1,52 @@
+<notextile>  <!--
+.. link: 
+.. description: 
+.. tags: git, haskell
+.. date: 2013/07/21 20:18:44
+.. title: git-annex assistant
+.. slug: git-annex-assistant
+.. campaign_date: 2012-06
+.. campaign_url: http://www.kickstarter.com/projects/joeyh/git-annex-assistant-like-dropbox-but-with-your-own/
+.. campaign_platform: kickstarter
+.. campaign_status: successful
+.. campaign_backers: 951
+.. campaign_currency: US$
+.. campaign_goal: 3000
+.. campaign_raised: 24786
+.. existing_code: existing code
+.. license: GPL
+--></notextile>
+
+"Like DropBox, but with your own cloud" promised this campaign, and it was funded in a single day. git-annex is a plugin for the popular version control system git, which has the potential to be used to sychronise one's files across multiple machines - a la Dropbox. The campaign was to fund further development on this plugin as well as a graphical interface to it to make it accessible and usable by non-developers.
+
+The initial fundraiser was for three months' work (one might suspect rather optimistically budgeted); the eventual wild success of the campaign meant Joey Hess, the original author of git-annex, was able to work on these projects for a full year.
+
+<!-- TEASER_END -->
+
+From "the website":http://git-annex.branchable.com/ - 
+
+bq. git-annex allows managing files with git, without checking the file contents into git. While that may seem paradoxical, it is useful when dealing with files larger than git can currently easily handle, whether due to limitations in memory, time, or disk space.
+
+bq. git-annex is designed for git users who love the command line. For everyone else, the git-annex assistant turns git-annex into an easy to use folder synchroniser.
+
+Hess is currently running "a second campaign":https://campaign.joeyh.name/ to fund another year of development.
+
+h3. Rewards
+
+* $5: warm fuzzies
+* $10: stickers
+* $60: t-shirt
+* $75: USB keychain
+* $90: custom-printed USB keychain
+* $100: influence priorities
+* $125: 2 custom-printed USB keychains
+* $250: be a beta-tester
+* $500: dinner
+
+h3. Outcomes
+
+Hess has kept a "daily development blog":http://git-annex.branchable.com/design/assistant/blog/ to keep "the Internet" updated as to his progress. He summarised the "twelve months' work":http://git-annex.branchable.com/design/assistant/ and has given several talks at technical conferences about the projects.
+
+h3. Commentary
+
+* "I work for the Internet now":http://joeyh.name/blog/entry/I_work_for_The_Internet_now/ - Hess reflecting on the success of the campaign

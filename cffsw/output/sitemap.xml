@@ -50,6 +50,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://cffsw.modernthings.org/posts/diaspora/</loc>
+  <lastmod>2013-07-22</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://cffsw.modernthings.org/posts/git-annex-assistant/</loc>
   <lastmod>2013-07-21</lastmod>
   <priority>0.5000</priority>
@@ -71,47 +76,57 @@
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/</loc>
-  <lastmod>2013-07-21</lastmod>
+  <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/django.html</loc>
-  <lastmod>2013-07-21</lastmod>
+  <lastmod>2013-07-22</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://cffsw.modernthings.org/tags/federation.html</loc>
+  <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/git.html</loc>
-  <lastmod>2013-07-21</lastmod>
+  <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/gnu.html</loc>
-  <lastmod>2013-07-21</lastmod>
+  <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/haskell.html</loc>
-  <lastmod>2013-07-21</lastmod>
+  <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/media.html</loc>
-  <lastmod>2013-07-21</lastmod>
+  <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/python.html</loc>
-  <lastmod>2013-07-21</lastmod>
+  <lastmod>2013-07-22</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://cffsw.modernthings.org/tags/ruby.html</loc>
+  <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/social.html</loc>
-  <lastmod>2013-07-21</lastmod>
+  <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://cffsw.modernthings.org/tags/video.html</loc>
-  <lastmod>2013-07-21</lastmod>
+  <lastmod>2013-07-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>

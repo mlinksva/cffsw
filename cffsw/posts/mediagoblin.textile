@@ -1,0 +1,47 @@
+<notextile>  <!--
+.. link: 
+.. description: 
+.. tags: gnu, media, video, social, python, federation
+.. date: 2013/07/21 19:22:36
+.. title: MediaGoblin
+.. slug: mediagoblin
+.. campaign_date: 2012-11
+.. campaign_url: http://mediagoblin.org/pages/campaign.html
+.. campaign_platform: FSF
+.. campaign_status: partially successful
+.. campaign_backers:
+.. campaign_currency: US$
+.. campaign_goal: 60000
+.. campaign_raised: 45198
+.. existing_code: existing
+.. license: AGPL
+--></notextile>
+
+MediaGoblin is a "free software media publishing platform", a free alternative to many popular sites: YouTube (video), Flickr (photos), SoundCloud (audio) and the like. It aims to support "truly decentralized publishing and sharing":https://www.fsf.org/news/fsf-rallies-support-for-gnu-mediagoblin-to-make-media-publishing-free-as-in-freedom. It was "borne":http://docs.mediagoblin.org/siteadmin/about.html#what-is-gnu-mediagoblin from a Free Software Foundation meeting in 2008, recognising the lack of response in the free software space to popular commercial web-based media hosting and sharing sites. Minor releases were made up until October 2012 when the crowdfunding campaign began. There was a stated aim to reach "v1.0":http://mediagoblin.org/news/mediagoblin-1.0-checklist.html by the end of the campaign-funded development period.
+
+The campaign reached over 70% of its goal amount, but as the campaign did not follow the "threshold pledge" model of Kickstarter, it has still enabled significant work to be completed. Chris Webber, the main developer, chose to work on MediaGoblin full time for a year (as was the aim of the original target). Webber previously worked as a software engineer at Creative Commons.
+
+<!-- TEASER_END -->
+
+h3. Rewards
+
+* $15: warm fuzzies, stickers
+* $35: sponsored commit
+* $50: postcard
+* $100: t-shirt
+* $350: 3D-printed figurine
+* $2000: hand-painted 3D-printed figurine
+* $7500: Personally cooked meal
+
+In a "blog post":http://mediagoblin.org/news/mediagoblin-0.3.3-pixel-party.html they noted:
+
+bq. As much fun as it was to watch the money/progress bar and mail things out to all our lovely supporters, in the future we are looking for less labor intensive funding models. Feel free to send us your ideas for grants, potential collaborators with access to funding and customization contracts that will help us fund the future of MediaGoblin!
+
+h3. Outcomes
+
+Since the fundraiser ended 3 upgrades of the software have been released. Code is hosted at "Gitorious":http://gitorious.org/mediagoblin/mediagoblin. Releases have added support for 3D models, documents, specifying media file licenses, media file gelocation, and improved plugin architecture. Development of an Android app has also begun. The project hosted several interns as part of Google Summer of Code / GNOME Outreach Program for Women in the middle of 2013.
+
+h3. Commentary
+
+* "MediaGoblin crowdfunding campaign: huge success!":http://mediagoblin.org/news/we-did-it.html - this post has the most detail about how the funds will be used
+* "MediaGoblin: Saving the Internet Through Federation":http://www.linux-magazine.com/Online/Features/MediaGoblin-Saving-the-Internet-Through-Federation
