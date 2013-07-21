@@ -1,0 +1,54 @@
+<notextile>  <!--
+.. link: 
+.. description: 
+.. tags: social, federation, ruby
+.. date: 2013/07/21 23:33:54
+.. title: Diaspora
+.. slug: diaspora
+.. campaign_date: 2010-06
+.. campaign_url: http://www.kickstarter.com/projects/mbs348/diaspora-the-personally-controlled-do-it-all-distr
+.. campaign_platform: kickstarter
+.. campaign_status: successful
+.. campaign_backers: 6479
+.. campaign_currency: US$
+.. campaign_goal: 10000
+.. campaign_raised: 200641
+.. existing_code: no
+.. license: AGPL
+--></notextile>
+
+Diaspora promised itself to be the ultimate free software Facebook-killer, and in the process became a blockbuster - the second biggest Kickstarter project ever, at the time. Four university students were inspired to spend their summer building privacy-focused social networking software that gave the user control, after listening to a speech by "Eben Moglen":http://en.wikipedia.org/wiki/Eben_Moglen.
+
+While software has been produced, after the runaway success of the initial campaign and subsequent pressure to produce a result, the project has struggled to gain traction with a critical mass of users.
+
+<!-- TEASER_END -->
+
+h3. Rewards
+
+* $5: software CD
+* $10: stickers
+* $25: t-shirt
+* $50: 1 month hosted service or phone support
+* $100: 3 months hosted service or phone support
+* $350: 1 year hosted service or phone support
+* $1000: access to the nightly build server
+* $2000: computer pre-configured with Diaspora
+
+h3. Outcomes
+
+The campaign was in June 2010. The first "pre-alpha" release of the software was September 2010, although that was marred by security problems.
+
+In June 2011, Google launched Google Plus, with many commentators noting the similarity of Google Plus concepts to those in Diaspora.
+
+In November 2011 one of the original founders, Ilya Zhitomirskiy, committed suicide.
+
+In August 2012, the founders announced that they were "handing Diaspora over to the community":http://blog.diasporafoundation.org/2012/08/27/announcement-diaspora-will-now-be-a-community-project.html.
+
+h3. Commentary
+
+Much has been written about Diaspora! Here is a selection. For more check out the "Diaspora wiki":https://wiki.diasporafoundation.org/Media_coverage.
+
+* "Four Nerds and a Cry to Arms Against Facebook":http://www.nytimes.com/2010/05/12/nyregion/12about.html - a New York Times profile during the campaign period that helped bring the project attention
+* "On Diaspora's Social Network, You Own Your Own Data":http://www.businessweek.com/articles/2012-05-10/on-diasporas-social-network-you-own-your-data
+* "What happened to the Facebook killer? It's complicated":http://motherboard.vice.com/blog/what-happened-to-the-facebook-killer-it-s-complicated
+* "Profit and loss statement from the campaign funds":http://www.scribd.com/doc/104728404/DIASPORA-7312011-Profit-and-Loss-Statement-B

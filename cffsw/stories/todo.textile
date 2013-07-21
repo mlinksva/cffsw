@@ -1,0 +1,32 @@
+<notextile>  <!--
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/07/22 00:51:22
+.. title: TODO
+.. slug: todo
+--></notextile>
+
+Here are the projects I know about but haven't written about yet. If you know of something not yet covered in this list or the existing posts, please "let me know":http://cffsw.modernthings.org/contact/. Note I don't intend to cover _all_ failed campaigns, because, well, long tail is long.
+
+* "PressurePen - the Open Source pressure sensitive stylus":http://www.kickstarter.com/projects/option8/pressurepen-the-open-source-pressure-sensitive-sty
+* "Lib-Ray: Non-DRM Open-Standards HD Video Format":http://www.kickstarter.com/projects/2144275086/lib-ray-non-drm-open-standards-hd-video-format
+* "Light Table":http://www.kickstarter.com/projects/306316578/light-table
+* "Kdenlive Refactoring":http://www.indiegogo.com/projects/kdenlive-refactoring
+* "Liberate the Debian Administrator’s Handbook":http://debian-handbook.info/liberation/
+* "KinoRaw - Free Libre software and hardware for film and audiovisual documentaries":http://goteo.org/project/kinoraw
+* "The Tube Open Movie":http://www.kickstarter.com/projects/1331941187/the-tube-open-movie
+* "Parallella: A Supercomputer For Everyone":http://www.kickstarter.com/projects/adapteva/parallella-a-supercomputer-for-everyone
+* "PengPod: True Linux Tablets and MiniPCs":http://www.indiegogo.com/projects/pengpod-true-linux-tablets-and-minipcs
+* "OpenShot Video Editor for Windows, Mac, and Linux":http://www.kickstarter.com/projects/421164014/openshot-video-editor-for-windows-mac-and-linux
+* "The 'Love Linux' Campaign: The TuxDrive & The TuxPoster":http://www.kickstarter.com/projects/1373995643/the-love-linux-campaign-the-tuxdrive-and-the-tuxpo
+* "Geary: a beautiful modern open-source email client":http://www.indiegogo.com/projects/geary-a-beautiful-modern-open-source-email-client
+
+Related things of interest to write up somewhere:
+
+* "Raising money For 'Lunatics' with Kickstarter":http://www.freesoftwaremagazine.com/articles/raising_money_lunatics_kickstarter
+* "Liberated Pixel Cup":https://my.fsf.org/donate/working-together/liberated-pixel-cup
+* "Fundraising Campaign: Non-Profit Accounting Software":https://sfconservancy.org/campaign/ (open ended I think, so just same old fundraising?)
+* "Crowdfunding, Micro-Patronage, And The Future Of Free Software":http://techcrunch.com/2013/03/27/crowdfunding-micro-patronage-and-the-future-of-free-software/
+* "OpenFunding platform":http://funding.openinitiative.com/, Funding platform for free software
+* "CoFundOS":http://cofundos.org/, kind of a glorified bug bounty site??

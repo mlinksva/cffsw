@@ -1,0 +1,42 @@
+<notextile>  <!--
+.. link: 
+.. description: 
+.. tags: draft,
+# auto filled out
+.. date: 2000-01-01
+# user prompted
+.. title: test
+# auto filled out
+.. slug: test
+.. campaign_date:
+.. campaign_url:
+.. campaign_platform:
+.. campaign_status:
+.. campaign_backers:
+.. campaign_currency:
+.. campaign_goal:
+.. campaign_raised:
+.. existing_code:
+.. license:
+--></notextile>
+
+Write an introduction to the campaign here. Some other headings you might have are below.
+
+<!-- TEASER_END -->
+
+h3. Rewards
+
+* a
+* list
+* of
+* amounts
+* and 
+* things
+
+h3. Outcomes
+
+Was code actually published?
+
+h3. Commentary
+
+* "Link text":http://url.com

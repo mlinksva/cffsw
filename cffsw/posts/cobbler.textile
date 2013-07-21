@@ -1,0 +1,41 @@
+<notextile>  <!--
+.. link: 
+.. description: 
+.. tags: python, servers
+.. date: 2013/07/22 00:36:44
+.. title: Cobbler
+.. slug: cobbler
+.. campaign_date: 2012-12
+.. campaign_url: http://www.indiegogo.com/projects/cobbler-2-4-0-and-beyond
+.. campaign_platform: indiegogo
+.. campaign_status: successful
+.. campaign_backers: 27
+.. campaign_currency: US$
+.. campaign_goal: 4000
+.. campaign_raised: 5776
+.. existing_code: yes
+.. license: GPL
+--></notextile>
+
+A small-scale campaign to purchase hardware for a project cut loose by Red Hat.
+
+<!-- TEASER_END -->
+
+From the campaign, by James Cammarata, the new project lead:
+
+bq. Created in 2007 by Michael DeHaan, Cobbler is a Linux installation server that allows for rapid setup of network installation environments. It glues together and automates many associated Linux tasks [...] Cobbler was originally a Fedora/Red Hat sponsored project, and is currently a key part of the Red Hat Satellite/Spacewalk project. Since March of 2012, the project leadership has changed and it is no longer receiving direct support from Red Hat in terms of money or development contributions.
+
+h3. Rewards
+
+* $25 - warm fuzzies with bronze label
+* $50 - warm fuzzies with silver label
+* $100 - warm fuzzies with gold label
+* $500 - warm fuzzies with platium label
+
+h3. Outcomes
+
+Seems like "hardware was purchased":http://www.cobblerd.org/posts/2012/12/05/Fundraising_Complete_and_a_New_Website.html, so this can probably be counted as a success.
+
+h3. Commentary
+
+* "Shoes for the Cobbler’s kids":http://gregdekspeaks.wordpress.com/2012/11/20/shoes-for-the-cobblers-kids/ - blog post from a VP at Eucalyptus Systems, announcing they would match donations dollar for dollar during the Indiegogo campaign.
