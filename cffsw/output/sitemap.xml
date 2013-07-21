@@ -50,6 +50,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://cffsw.modernthings.org/posts/git-annex-assistant/</loc>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://cffsw.modernthings.org/posts/mediagoblin/</loc>
   <lastmod>2013-07-21</lastmod>
   <priority>0.5000</priority>
@@ -75,7 +80,17 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://cffsw.modernthings.org/tags/git.html</loc>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://cffsw.modernthings.org/tags/gnu.html</loc>
+  <lastmod>2013-07-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://cffsw.modernthings.org/tags/haskell.html</loc>
   <lastmod>2013-07-21</lastmod>
   <priority>0.5000</priority>
  </url>

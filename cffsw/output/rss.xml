@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Crowdfunded Free Software</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Sun, 21 Jul 2013 20:07:23 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>MediaGoblin</title><link>http://cffsw.modernthings.org/posts/mediagoblin/</link><description>&lt;p&gt;MediaGoblin is a “free software media publishing platform”, a free alternative to many popular sites: YouTube (video), Flickr (photos), SoundCloud (audio) and the like. It aims to support &lt;a href="https://www.fsf.org/news/fsf-rallies-support-for-gnu-mediagoblin-to-make-media-publishing-free-as-in-freedom"&gt;truly decentralized publishing and sharing&lt;/a&gt;. It was &lt;a href="http://docs.mediagoblin.org/siteadmin/about.html#what-is-gnu-mediagoblin"&gt;borne&lt;/a&gt; from a Free Software Foundation meeting in 2008, recognising the lack of response in the free software space to popular commercial web-based media hosting and sharing sites. Minor releases were made up until October 2012 when the crowdfunding campaign began. There was a stated aim to reach &lt;a href="http://mediagoblin.org/news/mediagoblin-1.0-checklist.html"&gt;v1.0&lt;/a&gt; by the end of the campaign-funded development period.&lt;/p&gt;
+<rss version="2.0"><channel><title>Crowdfunded Free Software</title><link>http://cffsw.modernthings.org</link><description>A catalogue of crowdfunding campaigns for free software and its ilk.</description><lastBuildDate>Sun, 21 Jul 2013 20:42:38 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>git-annex assistant</title><link>http://cffsw.modernthings.org/posts/git-annex-assistant/</link><description>&lt;p&gt;“Like DropBox, but with your own cloud” promised this campaign, and it was funded in a single day. git-annex is a plugin for the popular version control system git, which has the potential to be used to sychronise one’s files across multiple machines – a la Dropbox. The campaign was to fund further development on this plugin as well as a graphical interface to it to make it accessible and usable by non-developers.&lt;/p&gt;
+
+	&lt;p&gt;The initial fundraiser was for three months’ work (one might suspect rather optimistically budgeted); the eventual wild success of the campaign meant Joey Hess, the original author of git-annex, was able to work on these projects for a full year.&lt;/p&gt;
+
+	&lt;p&gt;&lt;!-- TEASER_END --&gt;&lt;/p&gt;
+
+	&lt;p&gt;From &lt;a href="http://git-annex.branchable.com/"&gt;the website&lt;/a&gt; – &lt;/p&gt;
+
+	&lt;blockquote&gt;
+		&lt;p&gt;git-annex allows managing files with git, without checking the file contents into git. While that may seem paradoxical, it is useful when dealing with files larger than git can currently easily handle, whether due to limitations in memory, time, or disk space.&lt;/p&gt;
+	&lt;/blockquote&gt;
+
+	&lt;blockquote&gt;
+		&lt;p&gt;git-annex is designed for git users who love the command line. For everyone else, the git-annex assistant turns git-annex into an easy to use folder synchroniser.&lt;/p&gt;
+	&lt;/blockquote&gt;
+
+	&lt;p&gt;Hess is currently running &lt;a href="https://campaign.joeyh.name/"&gt;a second campaign&lt;/a&gt; to fund another year of development.&lt;/p&gt;
+
+	&lt;h4&gt;Rewards&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;$5: warm fuzzies&lt;/li&gt;
+		&lt;li&gt;$10: stickers&lt;/li&gt;
+		&lt;li&gt;$60: t-shirt&lt;/li&gt;
+		&lt;li&gt;$75: &lt;span class="caps"&gt;USB&lt;/span&gt; keychain&lt;/li&gt;
+		&lt;li&gt;$90: custom-printed &lt;span class="caps"&gt;USB&lt;/span&gt; keychain&lt;/li&gt;
+		&lt;li&gt;$100: influence priorities&lt;/li&gt;
+		&lt;li&gt;$125: 2 custom-printed &lt;span class="caps"&gt;USB&lt;/span&gt; keychains&lt;/li&gt;
+		&lt;li&gt;$250: be a beta-tester&lt;/li&gt;
+		&lt;li&gt;$500: dinner&lt;/li&gt;
+	&lt;/ul&gt;&lt;h4&gt;Outcomes&lt;/h4&gt;
+
+	&lt;p&gt;Hess has kept a &lt;a href="http://git-annex.branchable.com/design/assistant/blog/"&gt;daily development blog&lt;/a&gt; to keep “the Internet” updated as to his progress. He summarised the &lt;a href="http://git-annex.branchable.com/design/assistant/"&gt;twelve months’ work&lt;/a&gt; and has given several talks at technical conferences about the projects.&lt;/p&gt;
+
+	&lt;h4&gt;Commentary&lt;/h4&gt;
+
+	&lt;ul&gt;&lt;li&gt;&lt;a href="http://joeyh.name/blog/entry/I_work_for_The_Internet_now/"&gt;I work for the Internet now&lt;/a&gt; – Hess reflecting on the success of the campaign&lt;/li&gt;
+	&lt;/ul&gt;</description><category>git</category><category>haskell</category><guid>http://cffsw.modernthings.org/posts/git-annex-assistant/</guid><pubDate>Sun, 21 Jul 2013 20:18:44 GMT</pubDate></item><item><title>MediaGoblin</title><link>http://cffsw.modernthings.org/posts/mediagoblin/</link><description>&lt;p&gt;MediaGoblin is a “free software media publishing platform”, a free alternative to many popular sites: YouTube (video), Flickr (photos), SoundCloud (audio) and the like. It aims to support &lt;a href="https://www.fsf.org/news/fsf-rallies-support-for-gnu-mediagoblin-to-make-media-publishing-free-as-in-freedom"&gt;truly decentralized publishing and sharing&lt;/a&gt;. It was &lt;a href="http://docs.mediagoblin.org/siteadmin/about.html#what-is-gnu-mediagoblin"&gt;borne&lt;/a&gt; from a Free Software Foundation meeting in 2008, recognising the lack of response in the free software space to popular commercial web-based media hosting and sharing sites. Minor releases were made up until October 2012 when the crowdfunding campaign began. There was a stated aim to reach &lt;a href="http://mediagoblin.org/news/mediagoblin-1.0-checklist.html"&gt;v1.0&lt;/a&gt; by the end of the campaign-funded development period.&lt;/p&gt;
 
 	&lt;p&gt;The campaign reached over 70% of its goal amount, but as the campaign did not follow the “threshold pledge” model of Kickstarter, it has still enabled significant work to be completed. Chris Webber, the main developer, chose to work on MediaGoblin full time for a year (as was the aim of the original target). Webber previously worked as a software engineer at Creative Commons.&lt;/p&gt;
 
